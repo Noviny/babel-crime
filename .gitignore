@@ -1,0 +1,11 @@
+# Logs
+logs
+*.log
+
+node_modules
+
+scratchings.js
+
+.env
+lib/
+lib/*

@@ -1,6 +1,6 @@
 {
 	"name": "babel-crime",
-	"version": "0.1.0",
+	"version": "1.0.0",
 	"description": "A babel plugin to randomise your variable names",
 	"keywords": [],
 	"author": "Ben Conolly",

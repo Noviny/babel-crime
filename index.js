@@ -61,7 +61,6 @@ function weirdify({ types: t }) {
 
         if (
           path.scope.globals[name] ||
-          reservedWords.includes(name) ||
           isObjectProperty(path) ||
           dictionary[name]
         ) {
